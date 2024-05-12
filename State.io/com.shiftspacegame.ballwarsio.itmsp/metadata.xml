@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>1643504553</provider>
+  <team_id>1643504553</team_id>
+  <software>
+    <vendor_id>com.shiftspacegame.ballwarsio</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>com.shiftspacegame.ballwarsio</product_id>
+          <reference_name>com.shiftspacegame.ballwarsio.removeads</reference_name>
+          <type>non-consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>10</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Remove Ads</title>
+              <description>Remove Banner And Instertial Ads</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>1242x2208-screenshot (27).png</file_name>
+            <size>371376</size>
+            <checksum>4dbbef75314ae95897bf210b5c4281cb</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>
